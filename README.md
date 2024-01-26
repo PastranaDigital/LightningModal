@@ -15,3 +15,9 @@ Get the focus to hit the modal for keyboard access on load.
 ## Resources
 
 - https://developer.salesforce.com/docs/component-library/bundle/lightning-modal/documentation
+
+<br><br>
+
+## To Do
+
+- add `backdrop-filter: blur(5px);` to the `.slds-backdrop_open, .slds-backdrop--open` class to blur sensitive data
